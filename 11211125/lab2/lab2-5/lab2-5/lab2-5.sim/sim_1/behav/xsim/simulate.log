@@ -1,0 +1,12 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+A      B     C     F1   F2
+0      0     0     0    0
+0      0     1     1    0
+0      1     0     1    0
+0      1     1     0    1
+1      0     0     1    0
+1      0     1     0    1
+1      1     0     0    1
+1      1     1     1    1
+$finish called at time : 100 ns : File "D:/digitlogic/11211125-2/11211125/lab2/lab2-5/t_Circuit_of_Fig_4_2.v" Line 8

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-5/Circuit_of_Fig_4_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Circuit_of_Fig_4_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-5/t_Circuit_of_Fig_4_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_Circuit_of_Fig_4_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-5/lab2-5/lab2-5.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr  9 01:32:32 2024
+# Process ID: 21820
+# Current directory: D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim/xsim.dir/tb_4bit_adder_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim/xsim.dir/tb_4bit_adder_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr  9 01:32:33 2024...

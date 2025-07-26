@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/digitlogic/11211125-2/11211125/lab2/lab2-2/full_adder.v,1710226898,verilog,,D:/digitlogic/11211125-2/11211125/lab2/lab2-2/ripple_carry_4_bit_adder.v,,full_adder;half_adder,,,,,,,,
+D:/digitlogic/11211125-2/11211125/lab2/lab2-2/lab2-2/lab2-2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/digitlogic/11211125-2/11211125/lab2/lab2-2/ripple_carry_4_bit_adder.v,1710827252,verilog,,D:/digitlogic/11211125-2/11211125/lab2/lab2-2/tb_4bit_adder.v,,ripple_carry_4_bit_adder,,,,,,,,
+D:/digitlogic/11211125-2/11211125/lab2/lab2-2/tb_4bit_adder.v,1710226729,verilog,,,,tb_4bit_adder,,,,,,,,

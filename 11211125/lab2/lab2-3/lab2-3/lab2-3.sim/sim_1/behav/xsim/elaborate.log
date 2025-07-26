@@ -1,0 +1,21 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 266758f42d3a41cfb7468d9f527704a1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_BCD_Adder_behav xil_defaultlib.tb_BCD_Adder xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'C0' [D:/digitlogic/11211125-2/11211125/lab2/lab2-3/BCD_adder.v:15]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'C0' [D:/digitlogic/11211125-2/11211125/lab2/lab2-3/BCD_adder.v:22]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "D:/digitlogic/11211125-2/11211125/lab2/lab2-3/lab2-3/lab2-3.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/digitlogic/11211125-2/11211125/lab2/lab2-3/lab2-3/lab2-3.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.half_adder
+Compiling module xil_defaultlib.full_adder
+Compiling module xil_defaultlib.ripple_carry_4_bit_adder
+Compiling module xil_defaultlib.BCD_adder
+Compiling module xil_defaultlib.tb_BCD_Adder
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_BCD_Adder_behav

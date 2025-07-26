@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-1 exercise/decoder_2x4_gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_2x4_gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-1 exercise/tb_decoder_2x4_df.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_decoder_2x4_df
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/digitlogic/11211125-2/11211125/lab2/lab2-1 exercise/lab2-1 exercise/lab2-1 exercise.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
